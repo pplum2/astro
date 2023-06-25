@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "astro2",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,7 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.6.4",
-    "sass": "^1.63.4"
+    "astro": "^2.7.0"
   }
 }
